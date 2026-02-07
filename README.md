@@ -1,9 +1,8 @@
-<a href="https://linkedin.com/in/joseph-0875a324b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Cybersecurity Practitioner Portfolio
+
+
+<a href="https://www.linkedin.com/in/joseph-d-0875a324b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tryhackme.com/p/merlin777"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-
-
-
-Cybersecurity practitioner portfolio.
 
 ## Certifications
 <div>
@@ -24,7 +23,7 @@ Cybersecurity practitioner portfolio.
 | Project                       | 🔗 |
 |------------------------------|---------|
 | Splunk Enterprise            | [Splunk SIEM Monitoring](https://github.com/m-erlin777/splunk-windows-monitoring) |
-| ELK Stack Threat Detection        | [ELK Threat Detection](https://github.com/m-erlin777/siem-threat-detection) |
+| ELK Stack Threat Detection   | [ELK Threat Detection](https://github.com/m-erlin777/siem-threat-detection) |
 
 
 
