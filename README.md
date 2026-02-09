@@ -10,21 +10,17 @@
 <img src="https://img.shields.io/badge/-CySA%2B-00ADEF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-##
+### Vulnerability Management
+- **[Vulnerability Management Program Implementation](https://github.com/777josephd/vulnerability-management-program)**
+
 ### Network Traffic Analysis & Detection
 
-| Project                   | 🔗 |
-|---------------------------|---------|
-| Wireshark Analysis        | [PCAP Analysis](https://github.com/m-erlin777/wireshark-pcap-simulation) |
-|                           | [Malware Traffic Analysis](https://github.com/m-erlin777/MTA-WriteUps)
+- **[Wireshark PCAP Analysis](https://github.com/m-erlin777/wireshark-pcap-simulation)**
+- **[Malware Traffic Analysis](https://github.com/m-erlin777/MTA-WriteUps)**
 
 ### SIEM, Logging & Incident Analysis
-
-| Project                       | 🔗 |
-|------------------------------|---------|
-| Splunk Enterprise            | [Splunk SIEM Monitoring](https://github.com/m-erlin777/splunk-windows-monitoring) |
-| ELK Stack Threat Detection   | [ELK Threat Detection](https://github.com/m-erlin777/siem-threat-detection) |
-
+- **[Splunk Enterprise Monitoring](https://github.com/m-erlin777/splunk-windows-monitoring)**
+- **[ELK Stack Threat Detection](https://github.com/m-erlin777/siem-threat-detection)**
 
 
 ## Tools
