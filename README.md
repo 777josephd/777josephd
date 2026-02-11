@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   </div>
 
   <br/>
@@ -45,6 +46,7 @@
     <img src="https://img.shields.io/badge/-Elastic%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-0A64F0?style=for-the-badge&logo=wazuh&logoColor=white" />
   </div>
@@ -71,6 +73,7 @@
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-TShark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-5A5A5A?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus%20Tenable-FF6600?style=for-the-badge&logo=tenable&logoColor=white" />
   </div>
 
   <br/>
@@ -111,3 +114,4 @@
   </div>
 
 </div>
+
