@@ -12,9 +12,12 @@
 
 ### Vulnerability Management
 - **[Vulnerability Management Program Implementation](https://github.com/777josephd/vulnerability-management-program)**
+- **[Automated STIG Compliance Scripts](https://github.com/777josephd/STIG-remediations)**
+
+### Threat Hunting & Security Operations
+- **[Scenario-Based Threat Hunting](https://github.com/777josephd/threat-hunting-cr)**
 
 ### Network Traffic Analysis & Detection
-
 - **[Wireshark PCAP Analysis](https://github.com/m-erlin777/wireshark-pcap-simulation)**
 - **[Malware Traffic Analysis](https://github.com/m-erlin777/MTA-WriteUps)**
 
