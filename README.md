@@ -18,8 +18,8 @@
 - **[Scenario-Based Threat Hunting](https://github.com/777josephd/threat-hunting-cr)**
 
 ### Network Traffic Analysis & Detection
+- **[Wireshark Malware Traffic Analysis](https://github.com/m-erlin777/MTA-WriteUps)**
 - **[Wireshark PCAP Analysis](https://github.com/m-erlin777/wireshark-pcap-simulation)**
-- **[Malware Traffic Analysis](https://github.com/m-erlin777/MTA-WriteUps)**
 
 ### SIEM, Logging & Incident Analysis
 - **[Splunk Enterprise Monitoring](https://github.com/m-erlin777/splunk-windows-monitoring)**
