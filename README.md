@@ -23,6 +23,7 @@
 
 ### SIEM, Logging & Incident Analysis
 - **[Splunk Enterprise Monitoring](https://github.com/m-erlin777/splunk-windows-monitoring)**
+- **[Splunk BOTS Write-Ups](https://github.com/777josephd/Write-Ups/tree/main/Splunk-BotS)**
 - **[ELK Stack Threat Detection](https://github.com/m-erlin777/siem-threat-detection)**
 
 
