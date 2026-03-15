@@ -19,12 +19,10 @@
 
 ### Network Traffic Analysis & Detection
 - **[Wireshark Malware Traffic Analysis](https://github.com/m-erlin777/MTA-WriteUps)**
-- **[Wireshark PCAP Analysis](https://github.com/m-erlin777/wireshark-pcap-simulation)**
 
 ### SIEM, Logging & Incident Analysis
-- **[Splunk Enterprise Monitoring](https://github.com/m-erlin777/splunk-windows-monitoring)**
+- **[Active Directory Splunk and SOAR Integration](https://github.com/777josephd/Active-Directory-Splunk-SOAR)**
 - **[Splunk BOTS Write-Ups](https://github.com/777josephd/Write-Ups/tree/main/Splunk-BotS)**
-- **[ELK Stack Threat Detection](https://github.com/m-erlin777/siem-threat-detection)**
 
 
 ## Tools
