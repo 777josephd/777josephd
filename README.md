@@ -24,6 +24,8 @@
 - **[Active Directory Splunk and SOAR Integration](https://github.com/777josephd/Active-Directory-Splunk-SOAR)**
 - **[Splunk BOTS Write-Ups](https://github.com/777josephd/Write-Ups/tree/main/Splunk-BotS)**
 
+### All Write-Ups (Splunk BotS, TryHackMe, CyberDefenders, OverTheWire, HackTheBox, BTLO)
+- **[Write-Ups](https://github.com/777josephd/Write-Ups)**
 
 ## Tools
 <div>
