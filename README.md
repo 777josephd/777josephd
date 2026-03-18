@@ -8,6 +8,7 @@
 <div>
 <img src="https://img.shields.io/badge/-CISSP-003366?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySA%2B-00ADEF?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CC-003366?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ### Vulnerability Management
