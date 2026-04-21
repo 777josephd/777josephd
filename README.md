@@ -12,10 +12,16 @@
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
+### Security Operations Lifecycle
+- **[Capstone](https://github.com/777josephd/soc-lab-capstone)**
+
 ### Vulnerability Management
 - **[OpenSCAP CIS Compliance Automation](https://github.com/777josephd/openscap-cis-compliance)**
 - **[Vulnerability Management Program Implementation](https://github.com/777josephd/vulnerability-management-program)**
 - **[Automated STIG Compliance Scripts](https://github.com/777josephd/STIG-remediations)**
+
+### Threat Intelligence & Automated Response
+- **[IOC Enrichment Pipeline](https://github.com/777josephd/ioc-enrichment-pipeline)**
 
 ### Threat Hunting & Security Operations
 - **[Scenario-Based Threat Hunting](https://github.com/777josephd/threat-hunting-cr)**
