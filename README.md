@@ -15,6 +15,9 @@
 ### Security Operations Lifecycle
 - **[Capstone](https://github.com/777josephd/soc-lab-capstone)**
 
+### Phishing Analysis & Email Forensics
+- **[Phishing Analysis](https://github.com/777josephd/phishing-analysis)**
+
 ### Vulnerability Management
 - **[OpenSCAP CIS Compliance Automation](https://github.com/777josephd/openscap-cis-compliance)**
 - **[Vulnerability Management Program Implementation](https://github.com/777josephd/vulnerability-management-program)**
