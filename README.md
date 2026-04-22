@@ -26,15 +26,15 @@
 ### Threat Intelligence & Automated Response
 - **[IOC Enrichment Pipeline](https://github.com/777josephd/ioc-enrichment-pipeline)**
 
+### SIEM, Logging & Incident Analysis
+- **[Active Directory Splunk and SOAR Integration](https://github.com/777josephd/Active-Directory-Splunk-SOAR)**
+- **[Splunk BOTS Write-Ups](https://github.com/777josephd/Write-Ups/tree/main/Splunk-BotS)**
+
 ### Threat Hunting & Security Operations
 - **[Scenario-Based Threat Hunting](https://github.com/777josephd/threat-hunting-cr)**
 
 ### Network Traffic Analysis & Detection
 - **[Wireshark Malware Traffic Analysis](https://github.com/m-erlin777/MTA-WriteUps)**
-
-### SIEM, Logging & Incident Analysis
-- **[Active Directory Splunk and SOAR Integration](https://github.com/777josephd/Active-Directory-Splunk-SOAR)**
-- **[Splunk BOTS Write-Ups](https://github.com/777josephd/Write-Ups/tree/main/Splunk-BotS)**
 
 ### All Write-Ups (Splunk BotS, TryHackMe, CyberDefenders, OverTheWire, HackTheBox, BTLO)
 - **[Write-Ups](https://github.com/777josephd/Write-Ups)**
