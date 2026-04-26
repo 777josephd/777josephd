@@ -15,6 +15,9 @@
 ### Security Operations Lifecycle
 - **[Capstone](https://github.com/777josephd/soc-lab-capstone)**
 
+### Enterprise IT Administration
+- **[Capstone](https://github.com/777josephd/enterprise-it-admin-capstone)**
+
 ### Phishing Analysis & Email Forensics
 - **[Phishing Analysis](https://github.com/777josephd/phishing-analysis)**
 
