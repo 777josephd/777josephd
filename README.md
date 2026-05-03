@@ -17,6 +17,7 @@
 
 ### Enterprise IT Administration
 - **[Capstone](https://github.com/777josephd/enterprise-it-admin-capstone)**
+- **[Jira Service Management](https://github.com/777josephd/jira-simulation)**
 
 ### Phishing Analysis & Email Forensics
 - **[Phishing Analysis](https://github.com/777josephd/phishing-analysis)**
